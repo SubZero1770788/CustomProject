@@ -475,3 +475,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+API/appsettings.json
+.gitignore
+API/appsettings.json
