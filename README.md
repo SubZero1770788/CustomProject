@@ -52,4 +52,4 @@ To do:
 
 ## Contact
 App was created with the help from course made by Neil Cummings, I've only coded it.
-[Although, feel free to contact me!](https://dawid-dev.fly.dev/)
+[Although, feel free to contact me!](https://dawid-dev-site.fly.dev/)
